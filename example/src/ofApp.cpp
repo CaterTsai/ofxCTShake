@@ -3,8 +3,6 @@
 //--------------------------------------------------------------
 void ofApp::setup()
 {
-	//ofBackground(85, 143, 216);
-	
 	ofSetVerticalSync(true);
 
 	_Giraffe.setup();
