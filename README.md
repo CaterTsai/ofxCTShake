@@ -25,3 +25,4 @@ You can setting your own shake method using ofxCTShakeCanvas::setFunc().
 Example
 -------
 The example is test on visual studio 2012 with openframework 0.8.1.
+https://youtu.be/djlZcAZB4qY
